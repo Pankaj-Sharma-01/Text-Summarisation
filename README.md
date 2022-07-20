@@ -4,3 +4,5 @@
 About the project:
 
 Given a articular keyword regarding a news topic web scrape important web pages / news article . Extract text from those pages . Apply NLP techniques to summarise all those content into a few lines!
+Results:
+![summary](text_result.png)
